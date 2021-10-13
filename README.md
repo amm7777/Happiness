@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/amm7777/Happiness/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amm7777/Happiness/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+Welcome to the Happiness wiki! Here are some ways to live a Happy Life. Our Life is mostly hectic everyday. Waking up early in the morning, rushing to work, and getting home late after work and back to bed. In this busy life, people don't think of their and their loved ones happiness. You don't need time to be happy everyday. You can smile while waking up. You can smile when you rush to your "busy, important, sometimes hectic" work. All you have to do is make yourself laugh and even people around you. Being Happy is way better than making others Happy. But in this concept you don't have choice to select either one. You can select both. Hence Your life will be as easy as your dream life.
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
